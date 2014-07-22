@@ -1,4 +1,4 @@
-## SimpleTranslation* Author: Jordi Bassagañas at [programarivm.com](http://programarivm.com)
+## SimpleTranslation* Author: Jordi Bassagañas, [programarivm.com](http://programarivm.com)
 * Link: [PHP guay](http://www.youtube.com/watch?v=Hj_E0Wk2lNE&list=PLYIi2QEAbhW61xT5SpgVYH1tqBhQM7fC9)
 * Version: 1.0.0* License: MIT### Features- This component is intended for handling translations.- For now, it's really simple! It only works with PHP arrays.- It may be extended to work with other formats: csv, ini, xml, mo, etc.### Changelog* 1.0.0 first release.### InstallCopy the `simple-translation` directory into your `vendor` directory.### Setup
 First of all, you need to create your dictionaries in PHP array format somewhere in your application's directory structure. 
