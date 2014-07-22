@@ -1,8 +1,6 @@
 #!/bin/php
 <?php
-
 // See ASCII table at http://www.ascii-code.com/
-
 $labels = array('98-hello', 'hello-98', '?Robert', 'RobertÇ', 'bob', 'b ob', 'æÆ╣Ã');
 
 foreach($labels as $label)
