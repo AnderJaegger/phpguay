@@ -9,5 +9,5 @@ function hi($message)
 } 
 
 hi(function() {
-    return "Hello world";
+    return 'Hello world';
 });
