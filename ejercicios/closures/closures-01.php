@@ -1,7 +1,7 @@
 #!/bin/php
 <?php
 $hi = function() {
-	return 'Hello world';
+    return 'Hello world';
 };
 
 echo $hi();
